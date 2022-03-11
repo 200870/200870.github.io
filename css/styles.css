@@ -7,7 +7,7 @@
 
 body {
 	font-family: Lato, "Open Sans", Roboto, "Segoe UI", "Helvetica Neue", Helvetica, Arial, sans-serif;
-	color: #202030;
+	color: pink;
 	background-color: #f8f8fc;
 }
 
@@ -18,11 +18,12 @@ body {
 }
 
 .resume-main {
-	background-color: pink;
+	background-color: #fffefc;
+	font-family: "Comic Sans MS";
 }
 
 .resume-aside {
-	background-color: #fff0e0;
+	background-color: pink;
 }
 
 /* Styles for lists in the document */
